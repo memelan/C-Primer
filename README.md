@@ -5,12 +5,12 @@ Fifth edition, Stanley B. Lippman
 Chapter 1 Getting Started
 
 ## Part I
-Chapter 2 Variables and Basic Types
-Chapter 3 Strings, Vectors, and Arrays
-Chapter 4 Expressions
-Chapter 5 Statements
-Chapter 6 Functions
-Chapter 7 Classes
+/Chapter 2 Variables and Basic Types
+/Chapter 3 Strings, Vectors, and Arrays
+/Chapter 4 Expressions
+/Chapter 5 Statements
+/Chapter 6 Functions
+/Chapter 7 Classes
 
 ## Part II
 Chapter 8 The IO Library
