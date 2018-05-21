@@ -1,8 +1,8 @@
 # C-Primer 
 Fifth edition, Stanley B. Lippman
 
-Notes and code, by Meilan WANG
-
+Notes and code, by Meilan WANG\
+\
 Chapter 1 Getting Started
 
 ## Part I
